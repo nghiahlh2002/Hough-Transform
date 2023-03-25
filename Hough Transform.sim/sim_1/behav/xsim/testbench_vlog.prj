@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Hough Transform.srcs/sources_1/new/adder.v" \
+"../../../../Hough Transform.srcs/sources_1/new/verdic_mul_2b.v" \
+"../../../../Hough Transform.srcs/sources_1/new/verdic_mul_4b.v" \
+"../../../../Hough Transform.srcs/sources_1/new/verdic_mul_8b.v" \
+"../../../../Hough Transform.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

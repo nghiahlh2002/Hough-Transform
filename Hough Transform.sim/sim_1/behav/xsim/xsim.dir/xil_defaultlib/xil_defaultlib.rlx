@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Vivado/2022.2/Hough Transform/Hough Transform.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sim_1/new/tb.v,1679734253,verilog,,,,testbench,,,,,,,,
+E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/adder.v,1679731214,verilog,,E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/verdic_mul_2b.v,,FA;adder,,,,,,,,
+E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/verdic_mul_2b.v,1679729461,verilog,,E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/verdic_mul_4b.v,,HA;verdic_mul_2b,,,,,,,,
+E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/verdic_mul_4b.v,1679732115,verilog,,E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/verdic_mul_8b.v,,verdic_mul_4b,,,,,,,,
+E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sources_1/new/verdic_mul_8b.v,1679734161,verilog,,E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sim_1/new/tb.v,,verdic_mul_8b,,,,,,,,

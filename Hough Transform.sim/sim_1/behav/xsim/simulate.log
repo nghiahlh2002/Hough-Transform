@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+a =   0, b =   0, p =     0
+a =   1, b =   1, p =     1
+a =   2, b =   2, p =     4
+a =   3, b =   3, p =     9
+a =   4, b =   4, p =    16
+a =   5, b =   5, p =    25
+a =   6, b =   6, p =    36
+a =   7, b =   7, p =    49
+a =   8, b =   8, p =    64
+a =   9, b =   9, p =    81
+a =  10, b =  10, p =   100
+a =  11, b =  11, p =   121
+a =  12, b = 108, p =  1296
+a =  13, b =  13, p =   169
+a = 142, b =  14, p =  1988
+a =  79, b = 111, p =  8769
+$finish called at time : 160 ns : File "E:/Vivado/2022.2/Hough Transform/Hough Transform.srcs/sim_1/new/tb.v" Line 30
